@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/opt/nginx/conf'
+let g:netrw_dirhist_2='/Users/mac/work/homepage/config'
+let g:netrw_dirhist_3='/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging'
+let g:netrw_dirhist_4='/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/MySQLdb'
